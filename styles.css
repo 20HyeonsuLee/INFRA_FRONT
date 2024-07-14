@@ -18,21 +18,8 @@ h1 {
     color: #333;
 }
 
-.post {
-    border-bottom: 1px solid #ddd;
-    padding: 10px 0;
-}
-
-.post:last-child {
-    border-bottom: none;
-}
-
-.post h2 {
-    margin: 0;
+#api-data {
+    text-align: center;
+    font-size: 1.2em;
     color: #333;
-}
-
-.post p {
-    margin: 5px 0 0;
-    color: #666;
 }
